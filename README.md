@@ -26,3 +26,16 @@
 |`Utilities`| Applications |
 
 </details>
+
+<details>
+
+<summary>Linux Architecture</summary>
+
+|Components | Description|
+| :---: | :---:|
+|`Hardware`| |
+|`Kernel`|  |
+|`Shell`|  |
+|`System Utility`|  |
+
+</details>
