@@ -1,4 +1,4 @@
-# Linux
+# Linux notes
 <details>
 <summary>Philosophy</summary>
 
