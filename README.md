@@ -33,9 +33,23 @@
 
 |Components | Description|
 | :---: | :---:|
-|`Hardware`| |
-|`Kernel`|  |
-|`Shell`|  |
-|`System Utility`|  |
+|`Hardware`| Ram, hard drive, CPU |
+|`Kernel`| The core of the Linux operating system whose function is to virtualize and control common computer hardware resources like CPU, allocated memory accessed data and others. |
+|`Shell`| A command line interface (CLI) |
+|`System Utility`| Makes available to the user all operating system's functionallity. |
+
+</details>
+
+<details>
+
+<summary>File system hierarchy</summary>
+
+|Path | Description|
+| :---: | :---:|
+|`/`| Root filesystem that contains all the file required to boot the operating system before other filesystems are mounted. |
+|`/bin`| Contains essential command binaries. |
+|`/boot`| Consists of static bootloader, kernel executable and files required to boot the Linux OS. |
+|`/dev`| Contains device files to facilitate access to every hardware device attached to the system. |
+|`/etc`|  |
 
 </details>
