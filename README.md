@@ -50,6 +50,17 @@
 |`/bin`| Contains essential command binaries. |
 |`/boot`| Consists of static bootloader, kernel executable and files required to boot the Linux OS. |
 |`/dev`| Contains device files to facilitate access to every hardware device attached to the system. |
-|`/etc`|  |
+|`/etc`| Local system configuration files. |
+|`/home`| Each user on the system has a subdirectory here for storage. |
+|`/lib`| Shared library files that are required for system boot. |
+|`/media`| External removable media devices such as USB drivers are mounted here. |
+|`/mnt`| Temporary mount point for regular filesystem. |
+|`/opt`| Optional files such as third-party tools can be saved here. |
+|`/root`| The home directory for the root user. |
+|`/sbin`| This directory contains executable used for system administration (binary system files). |
+|`/tmp`| Temporary files. |
+|`/usr`| Contains executables, libraries, man files, etc. |
+|`/var`| This directory contains variable data files such as long files, email in-boxes, web application related files, cron files and more. |
 
 </details>
+
